@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Suraj
-- 👀 I’m interested in Machine Learning and Deep Learning
-- 🌱 I’m currently learning Deep Learning
-- 📫 You can find me on "facebook.com/suraj.chand.5220"
+- 👀 I’m interested in Data Engineering and Business Intelligence
+- 📫 You can find me on "https://www.linkedin.com/in/suraj-chand-373232168/"
 
 <!---
 OG-surajchand/OG-surajchand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
